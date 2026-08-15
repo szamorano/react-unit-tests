@@ -5,5 +5,6 @@ test("renders Hello World as a text", () => {
   //Arrange
   render(<Greeting />);
   //Act
+  // .....nothing in this case
   //Assert
 });
